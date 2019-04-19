@@ -3,7 +3,7 @@ layout: post
 title: Jekyll
 date: 2019-01-01
 
-permalink: /codelabs/:title/
+permalink: /:title/
 ---
 
 # Jekyll Use
