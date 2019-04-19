@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MC, Github Pages Site (1)"
+title: "MC, Github Pages Site (2)"
 date: 2019-04-18
 ---
 
