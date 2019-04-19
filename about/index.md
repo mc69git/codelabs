@@ -4,9 +4,13 @@ title: About
 ---
 
 <div class="blurb">
-  <h1>Hi there, I'm MC!</h1>
-  <h3>About page..</h3>
-  [Home](./)
+
+# Hi there, I'm MC!
+### About page..
+
+<hr/>
+
+[Home](./)
 </div>
 
 
