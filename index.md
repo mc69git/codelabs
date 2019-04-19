@@ -1,10 +1,9 @@
 ## Welcome to GitHub Pages
 
-### Post
-[Post](post.md)
-
+<form><input type="text" placeholder="search.."></form>
 <hr/>
-
 {% for post in site.posts %}
-  *   <span>{{ post.date | date_to_string }}</span> » [{{ post.title }}]({{ post.url }} "{{ post.title }}")
+  *   <!-- <span>{{ post.date | date_to_string }}</span> --> » [{{ post.title }}]({{ post.url }} "{{ post.title }}")
 {% endfor %}
+<hr/>
+ » [About] (about/index.html)
