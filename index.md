@@ -1,4 +1,10 @@
 ## Welcome to GitHub Pages
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+### Post
 [Post](post.md)
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<hr/>
+
+{% for post in site.posts %}
+  *   <span>{{ post.date | date_to_string }}</span> » [{{ post.title }}]({{ post.url }} "{{ post.title }}")
+{% endfor %}
