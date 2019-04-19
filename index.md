@@ -7,4 +7,4 @@
 {% endfor %}
 <hr/>
 
-[About](about/index.html)
+[About](about/index.md)
