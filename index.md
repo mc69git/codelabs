@@ -9,10 +9,10 @@
 
 
 
-<hr/>
+<!-- <hr/>
 {% for page in site.pages %}
   *   » [{{ page.title }}]({{ page.url }} "{{ page.title }}")
-{% endfor %}
+{% endfor %} -->
 
 <hr/>
 [Blog](./blog/index.html)
