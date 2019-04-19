@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CV
+permalink: /codelabs/:path/
 ---
 
 # Hi there, I'm MC!
