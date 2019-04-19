@@ -9,6 +9,6 @@ permalink: /codelabs/:title/
 collections:
    pages:
      output: true
-     permalink: /codelabs/:collection/:path/
+     permalink: ./:collection/:path/
 
 
