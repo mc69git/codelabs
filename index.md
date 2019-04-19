@@ -1,17 +1,4 @@
----
-title: Home Page
----
-
 ## CodeLabs GitHub Pages
-
-author:            Mehdi Chou.
-summary:           CodeLab Tool
-id:                codelab
-categories:        tools
-environments:      dev
-status:            tutorial
-feedback link:     github.com/mc69git
-
 
 # Hi there, I'm MC!
 
