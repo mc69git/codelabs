@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Jekyll Plugins
+title: "Jekyll Plugins"
 date: 2019-02-02
-
-permalink: /codelabs/:title/
 ---
 
 # Jekyll Plugins
