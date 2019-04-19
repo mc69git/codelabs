@@ -4,7 +4,7 @@ markdown: kramdown
 
 theme: jekyll-theme-minimal
 
-# permalink: /:title/
+permalink: /:collection/:title/
 
 # collections:
 #    pages:
