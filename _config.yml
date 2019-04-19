@@ -2,6 +2,6 @@
 name: MC, Github CodeLabs
 markdown: kramdown
 
-permalink: /blog/:year-:month/:title
+permalink: /codelabs/:year-:month/:title
 
 theme: jekyll-theme-minimal
