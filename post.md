@@ -1,9 +1,3 @@
----
-layout: post
-title: "MC, Github Pages Site"
-date: 2019-04-18
----
-
 # Codelabs command line tool
 
 The program takes an input in form of a resource location,
