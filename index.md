@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
 
-<form><input type="text" placeholder="search.."></form>
+<form style="margin-bottom:10px;"><input type="text" placeholder="search.."></form>
+
 <hr/>
 {% for post in site.posts %}
-  *   <!-- <span>{{ post.date | date_to_string }}</span> --> » [{{ post.title }} : {{ post.url }}]({{ post.url }} "{{ post.title }}")
+  *   <span>{{ post.url }} | {{ post.date | date_to_string }}</span> » [{{ post.title }}]({{ post.url }} "{{ post.title }}")
 {% endfor %}
 <hr/>
 
