@@ -3,6 +3,5 @@ name: MC, Github CodeLabs
 markdown: kramdown
 
 # permalink: /blog/:year-:month/:title
-
 # theme: jekyll-theme-midnight
 theme: jekyll-theme-minimal
