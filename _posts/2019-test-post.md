@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MC, Github Pages Site"
-date: 2019-04
+title: Test Post"
+date: 2019
 ---
 
 # Codelabs command line tool!
