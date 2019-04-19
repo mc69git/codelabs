@@ -4,11 +4,11 @@ markdown: kramdown
 
 theme: jekyll-theme-minimal
 
-permalink: /codelabs/:name/
+permalink: /:title/
 
 collections:
    pages:
      output: true
-     permalink: /codelabs/:path/
+     permalink: /:collection/:path/
 
 
